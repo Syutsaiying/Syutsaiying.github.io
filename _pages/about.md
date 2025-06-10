@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤠 About Me
-I am a  graduate student, class of 2026 from [ShanghaiTech University](https://www.shanghaitech.edu.cn). I recieved my B.S. degree in Automation from East China University Of Science and Technology, Shanghai, in Summer 2023. I am currently working toward the M.S. degree in Electrical Engineering with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), ShanghaiTech University, Shanghai, China. My research interests include:
+I am a  graduate student, class of 2026 from [ShanghaiTech University](https://www.shanghaitech.edu.cn), Shanghai, China. I recieved my B.S. degree in Automation from [East China University Of Science and Technology](https://www.ecust.edu.cn/main.htm), Shanghai, in Summer 2023. 
+
+I am currently working toward the M.S. degree in Electrical Engineering with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), ShanghaiTech University, Shanghai. My research interests include:
 - **AI for Energy (AI4E)**, especially for supercapacitor
 - **State of health (SOH) estimation**
 - **Remaining useful life (RUL) prediction**
